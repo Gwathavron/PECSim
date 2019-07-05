@@ -3,9 +3,13 @@ BSD 2-Clause License
 Simulation for redox-active Film based Photoelectrodes
  Version: 1.00 	[bug reports to thomas.hoefer@rub.de] 
 
-This software can be used to simulate photoelectrodes based on redox-active films (mediated electron transfer). Different models can be selected under "Choose appropriate Model" or "Menu -> Model (Ctrl + M)". The simulation is only valid under various assumptions, please check the publication below (Open access) to find out if one of the models fit for your system. This paper could serve as a general literature citation when the PECSim software is employed for the simulation of redox-active film based biophotoelectrodes:
+This software can be used to simulate photoelectrodes based on redox-active films (mediated electron transfer). Different models can be 
+selected under "Choose appropriate Model" or "Menu -> Model (Ctrl + M)". The simulation is only valid under various assumptions, please 
+check the publication below (Open access) to find out if one of the models fit for your system. This paper could serve as a general 
+literature citation when the PECSim software is employed for the simulation of redox-active film based biophotoelectrodes:
 
-Buesen, D.; Hoefer, T.; Zhang, H.; Plumere, N. A Kinetic Model for Redox-Active Film Based Biophotoelectrodes. Faraday Discuss. 2019. https://doi.org/10.1039/C8FD00168E.
+Buesen, D.; Hoefer, T.; Zhang, H.; Plumere, N. A Kinetic Model for Redox-Active Film Based Biophotoelectrodes. Faraday Discuss. 2019. 
+https://doi.org/10.1039/C8FD00168E.
 
 
 Copyright (c) 2019, Thomas
