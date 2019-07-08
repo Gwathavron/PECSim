@@ -1,0 +1,39 @@
+Simulation Parameter for redox-active Film Simulation:
+Parameter,	 Quantity,		 Unit
+k_M,		 1,		 cm/s
+alpha_M,	 0.5,		 -
+k_SC2,		 1e-100,		 cm/s
+alpha_SC2,	 0.5,		 -
+k_MP,		 1e+08,		 L/mol s
+k_cat,		 1e-100,		 1/s
+k_YZ,		 1e-100,		 L/mol s
+k_SC1,		 1e-100,		 L/mol s
+k_PY,		 1e+04,		 L/mol s
+M_Tot,		 5,		 mmol/L
+Ratio of M_red,		 100,	 %
+Y_Tot,		 40,		 mmol/L
+Ratio of Y_Tot,		 100,	 %
+Z_Tot,		 5,		 mmol/L
+Ratio of Z_Tot,	 90,		 %
+E_Tot,		 1e+03,		 µmol/L
+E0_M,		 0.4,		 V
+E0_Y,		 0.08,		 V
+z_M,		 1,		 -
+z_Y,		 1,		 -
+D_M,		 1e-09,		 cm^2/s
+D_Y,		 7e-08,		 cm^2/s
+D_Z,		 6e-10,		 cm^2/s
+KM,		 100,		 µmol/L
+l_1,		 1e+02,		 µm
+ζ_x,		 0.001,		 -
+d_Electrode,	 02,		 mm
+t_exposure,	 1e+03,		 s
+t_equilibrium,	 1e+03,		 s
+t_recovery,	 1e+03,		 s
+T,		 20,		 °C
+E_hold,		 0.2,		 V
+Spacepoints,	 4e+00,		 -
+β_1,		 5.0000e-02,		 -
+β_2,		 1.0000e-02,		 -
+Timesteps,	 1e+03,		 -
+Fps,		 10,		 1/s
