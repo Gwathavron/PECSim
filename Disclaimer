@@ -1,7 +1,7 @@
 BSD 2-Clause License
 
 Simulation for redox-active Film based Photoelectrodes
- Version: 1.00 	[bug reports to thomas.hoefer@rub.de] 
+ Version: 1.02 	[bug reports to thomas.hoefer@rub.de] 
 
 This software can be used to simulate photoelectrodes based on redox-active films (mediated electron transfer). Different models can be 
 selected under "Choose appropriate Model" or "Menu -> Model (Ctrl + M)". The simulation is only valid under various assumptions, please 
@@ -15,7 +15,7 @@ https://doi.org/10.1039/C8FD00168E.
 Copyright ©   [2019]  [Thomas Hoefer, Darren Buesen]
 All rights reserved.
 
-The Software was written in and compiled with MATLAB © 1984-2019 The Mathworks, Inc.
+The Software was written in and compiled with MATLAB R2019a © 1984-2019 The Mathworks, Inc.
 
 
 Redistribution and use in source and binary forms, with or without
@@ -37,6 +37,6 @@ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
 SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.IN ANY WAY 
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. IN ANY WAY 
 IT IS PROHIBITED TO REMOVE ANY COPYRIGHT, TRADEMARK, LOGO, PROPRIETARY RIGHTS, 
-DISCLAIMER OR WARNING NOTICE INCLUDED ON OR EMBEDDE IN ANY PART OF THE SOFTWARE 
+DISCLAIMER OR WARNING NOTICE INCLUDED ON OR EMBEDDE IN ANY PART OF THE SOFTWARE. 
