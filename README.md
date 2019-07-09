@@ -14,10 +14,10 @@ list compares all important indices between source code and publication:
 
 Name        | publication | source code
 
-Mediator    | M           | M; M
-Catalyst    | P           | E
-1st species | Y (red/ox)  | S1; SP1
-2nd species | Z (red/ox)  | S2; SP2
-Theta_MM    | theta_MM    | theta
-Theta_MP    | theta_MP    | theta_bi
-kappa_bi    | kappa_bi    | kappa_SV
+Mediator    | M           | M; M //
+Catalyst    | P           | E //
+1st species | Y (red/ox)  | S1; SP1 //
+2nd species | Z (red/ox)  | S2; SP2 //
+Theta_MM    | theta_MM    | theta //
+Theta_MP    | theta_MP    | theta_bi //
+kappa_bi    | kappa_bi    | kappa_SV //
